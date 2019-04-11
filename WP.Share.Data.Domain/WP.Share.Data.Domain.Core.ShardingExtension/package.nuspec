@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <!--*-->
+    <id>WP.Share.Data.Domain.Core.ShardingExtension</id>
+    <!--*-->
+    <version>1.0.0</version>
+    <title>WP.Share.Data.Domain.Core.ShardingExtension</title>
+    <!--*-->
+    <authors>杭州微盘信息技术有限公司</authors>
+    <owners>杭州微盘信息技术有限公司</owners>
+    <!--
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+-->
+    <projectUrl>http://code.weipan.com/share/data/tree/master/WP.Share.Data.Domain/WP.Share.Data.Domain.Core.ShardingExtension</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--*-->
+    <description>新版工程结构的核心类库分表扩展</description>
+    <!--*-->
+    <releaseNotes>修改了一下结构</releaseNotes>
+    <copyright>Copyright ©  2019</copyright>
+    <tags>工程结构核心的分表扩展 </tags>
+    <dependencies>
+      <!--
+      <dependency id="SampleDependency" version="1.0" />
+-->
+    </dependencies>
+  </metadata>
+</package>

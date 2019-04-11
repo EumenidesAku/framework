@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <!--*-->
+    <id>WP.Share.Data.Domain.Orm</id>
+    <!--*-->
+    <version>1.0.0</version>
+    <title>WP.Share.Data.Domain.Orm</title>
+    <!--*-->
+    <authors>杭州微盘信息技术有限公司</authors>
+    <owners>杭州微盘信息技术有限公司</owners>
+    <!--
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+-->
+    <projectUrl>http://code.weipan.com/share/data/tree/master/WP.Share.Data.Domain/WP.Share.Data.Domain.Orm</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--*-->
+    <description>新版工程结构的基于dapper的orm类库</description>
+    <!--*-->
+    <releaseNotes>修改了一下结构</releaseNotes>
+    <copyright>Copyright ©  2019</copyright>
+    <tags>基于dapper的orm类库 </tags>
+    <dependencies>
+      <!--
+      <dependency id="SampleDependency" version="1.0" />
+-->
+    </dependencies>
+  </metadata>
+</package>

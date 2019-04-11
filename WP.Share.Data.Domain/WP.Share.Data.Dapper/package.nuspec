@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <!--*-->
+    <id>WP.Share.Data.Dapper</id>
+    <!--*-->
+    <version>1.0.0</version>
+    <title>WP.Share.Data.Dapper</title>
+    <!--*-->
+    <authors>杭州微盘信息技术有限公司</authors>
+    <owners>杭州微盘信息技术有限公司</owners>
+    <!--
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+-->
+    <projectUrl>http://code.weipan.com/share/data/tree/master/WP.Share.Data.Domain/WP.Share.Data.Dapper</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--*-->
+    <description>基于dapper的本司扩展</description>
+    <!--*-->
+    <releaseNotes>基于dapper的本司扩展发布</releaseNotes>
+    <copyright>Copyright ©  2019</copyright>
+    <tags>dapper的扩展 </tags>
+    <dependencies>
+      <!--
+      <dependency id="SampleDependency" version="1.0" />
+-->
+    </dependencies>
+  </metadata>
+</package>
